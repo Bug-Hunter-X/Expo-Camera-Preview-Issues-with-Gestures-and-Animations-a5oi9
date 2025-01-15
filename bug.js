@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API in conjunction with certain gestures or animations.  The camera preview might freeze, flicker, or display corrupted frames. This is particularly noticeable on lower-end devices or when complex UI updates are happening simultaneously.
